@@ -1,5 +1,5 @@
 # BlackProfessionalsinIT
-Senior Thesis: Black Professional in IT: Productivity Despite Barriers
+Senior Thesis: Black Professionals in IT: Productivity Despite Barriers
 
 This project features an in-depth analysis of Black Professionals in IT, their contributions to the IT field,
 a description of structural impediments placed upon Black IT workers entering the work force and the implications
